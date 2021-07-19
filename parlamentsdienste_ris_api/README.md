@@ -13,6 +13,6 @@ For further information, have a look at the **documentation** and the **interact
 You can also easily access this Jupyter Notebook on Colab and go through it interactively. 
 Just klick the following button: 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DonGoginho/myPy_RIS_API/blob/main/RIS_API_AL_Geschaefte.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/DonGoginho/myPy/blob/main/parlamentsdienste_ris_api/pd_ris_api_al_geschaefte.ipynb)
         
 And here is also on Colab a Jupyter notebook for [general use of the RIS API](https://colab.research.google.com/github/opendatazurich/opendatazurich.github.io/blob/master/ris-api/RIS-API-Beispiele.ipynb)
