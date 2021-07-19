@@ -1,2 +1,4 @@
 # myPy
- repo for my Py testing stuff
+This repo hosts some Python tests.
+Nothing special so far ;)
+
